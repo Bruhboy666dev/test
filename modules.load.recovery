@@ -75,7 +75,6 @@ icc-debug.ko
 slimbus.ko
 slim-qcom-ngd-ctrl.ko
 qrtr.ko
-ns.ko
 msm_sysstats.ko
 phy-qcom-ufs-qmp-v4-kalama.ko
 phy-qcom-ufs-qmp-v4-waipio.ko
